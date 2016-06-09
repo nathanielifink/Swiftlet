@@ -1,0 +1,207 @@
+
+630c8 Thu, 09 Jun 2016 05:05:31 +0000 Undefined property: HelloWorld\Models\Feed::$app in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 13
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(13): Swiftlet\Abstracts\App->error(8, 'Undefined prope...', '/home/nathaniel...', 13, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#4 {main}
+
+6d7cb Thu, 09 Jun 2016 05:05:41 +0000 Undefined property: HelloWorld\Models\Feed::$app in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 13
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(13): Swiftlet\Abstracts\App->error(8, 'Undefined prope...', '/home/nathaniel...', 13, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#4 {main}
+
+5007a Thu, 09 Jun 2016 05:07:28 +0000 Undefined property: HelloWorld\Models\Feed::$app in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 13
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(13): Swiftlet\Abstracts\App->error(8, 'Undefined prope...', '/home/nathaniel...', 13, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#4 {main}
+
+d1794 Thu, 09 Jun 2016 05:08:03 +0000 Undefined property: HelloWorld\Models\Feed::$app in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 13
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(13): Swiftlet\Abstracts\App->error(8, 'Undefined prope...', '/home/nathaniel...', 13, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#4 {main}
+
+b6b16 Thu, 09 Jun 2016 05:08:52 +0000 Undefined property: HelloWorld\Models\Feed::$app in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 13
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(13): Swiftlet\Abstracts\App->error(8, 'Undefined prope...', '/home/nathaniel...', 13, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#4 {main}
+
+92646 Thu, 09 Jun 2016 05:10:06 +0000 Undefined property: HelloWorld\Models\Feed::$app in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 15
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(15): Swiftlet\Abstracts\App->error(8, 'Undefined prope...', '/home/nathaniel...', 15, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#4 {main}
+
+04175 Thu, 09 Jun 2016 05:10:34 +0000 Undefined property: HelloWorld\Models\Feed::$app in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 15
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(15): Swiftlet\Abstracts\App->error(8, 'Undefined prope...', '/home/nathaniel...', 15, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#4 {main}
+
+93b9a Thu, 09 Jun 2016 05:11:02 +0000 Undefined property: HelloWorld\Models\Feed::$app in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 15
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(15): Swiftlet\Abstracts\App->error(8, 'Undefined prope...', '/home/nathaniel...', 15, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#4 {main}
+
+302bc Thu, 09 Jun 2016 05:19:10 +0000 Undefined variable: null in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Libraries/FeedLib.php on line 23
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Libraries/FeedLib.php(23): Swiftlet\Abstracts\App->error(8, 'Undefined varia...', '/home/nathaniel...', 23, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(15): HelloWorld\Libraries\FeedLib->getURLContent('http://www.redd...')
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#4 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#5 {main}
+
+933cd Thu, 09 Jun 2016 05:20:12 +0000 Undefined variable: null in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Libraries/FeedLib.php on line 23
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Libraries/FeedLib.php(23): Swiftlet\Abstracts\App->error(8, 'Undefined varia...', '/home/nathaniel...', 23, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(17): HelloWorld\Libraries\FeedLib->getURLContent('http://www.redd...')
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#4 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#5 {main}
+
+0aad5 Thu, 09 Jun 2016 05:21:15 +0000 Missing argument 1 for HelloWorld\Libraries\FeedLib::decodeXML(), called in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 23 and defined in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Libraries/FeedLib.php on line 27
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Libraries/FeedLib.php(27): Swiftlet\Abstracts\App->error(2, 'Missing argumen...', '/home/nathaniel...', 27, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(23): HelloWorld\Libraries\FeedLib->decodeXML()
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#4 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#5 {main}
+
+16de3 Thu, 09 Jun 2016 05:22:40 +0000 Missing argument 1 for HelloWorld\Libraries\FeedLib::decodeXML(), called in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 24 and defined in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Libraries/FeedLib.php on line 24
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Libraries/FeedLib.php(24): Swiftlet\Abstracts\App->error(2, 'Missing argumen...', '/home/nathaniel...', 24, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(24): HelloWorld\Libraries\FeedLib->decodeXML()
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#4 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#5 {main}
+
+f21e5 Thu, 09 Jun 2016 05:23:14 +0000 Missing argument 1 for HelloWorld\Libraries\FeedLib::decodeXML(), called in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 25 and defined in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Libraries/FeedLib.php on line 24
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Libraries/FeedLib.php(24): Swiftlet\Abstracts\App->error(2, 'Missing argumen...', '/home/nathaniel...', 24, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(25): HelloWorld\Libraries\FeedLib->decodeXML()
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#4 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#5 {main}
+
+5cad2 Thu, 09 Jun 2016 05:23:44 +0000 Missing argument 1 for HelloWorld\Libraries\FeedLib::decodeXML(), called in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 25 and defined in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Libraries/FeedLib.php on line 24
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Libraries/FeedLib.php(24): Swiftlet\Abstracts\App->error(2, 'Missing argumen...', '/home/nathaniel...', 24, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(25): HelloWorld\Libraries\FeedLib->decodeXML()
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#4 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#5 {main}
+
+b37b6 Thu, 09 Jun 2016 05:34:53 +0000 Undefined offset: 8 in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 33
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(33): Swiftlet\Abstracts\App->error(8, 'Undefined offse...', '/home/nathaniel...', 33, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#4 {main}
+
+0eda2 Thu, 09 Jun 2016 05:35:18 +0000 Undefined offset: 8 in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 31
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(31): Swiftlet\Abstracts\App->error(8, 'Undefined offse...', '/home/nathaniel...', 31, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#4 {main}
+
+442d8 Thu, 09 Jun 2016 05:35:52 +0000 Undefined offset: 7 in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 31
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(31): Swiftlet\Abstracts\App->error(8, 'Undefined offse...', '/home/nathaniel...', 31, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#4 {main}
+
+01e64 Thu, 09 Jun 2016 05:36:07 +0000 Undefined offset: 7 in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 31
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(31): Swiftlet\Abstracts\App->error(8, 'Undefined offse...', '/home/nathaniel...', 31, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#4 {main}
+
+59d6a Thu, 09 Jun 2016 05:36:16 +0000 Undefined offset: 7 in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 31
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(31): Swiftlet\Abstracts\App->error(8, 'Undefined offse...', '/home/nathaniel...', 31, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(16): HelloWorld\Models\Feed->getLastImage()
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#4 {main}
+
+34ad5 Thu, 09 Jun 2016 05:47:04 +0000 View not found in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/View.php on line 168
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(30): Swiftlet\Abstracts\View->render()
+#1 {main}
+
+10b57 Thu, 09 Jun 2016 05:48:30 +0000 View not found in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/View.php on line 168
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(30): Swiftlet\Abstracts\View->render()
+#1 {main}
+
+267c3 Thu, 09 Jun 2016 05:49:15 +0000 View not found in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/View.php on line 168
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(30): Swiftlet\Abstracts\View->render()
+#1 {main}
+
+bc6a5 Thu, 09 Jun 2016 05:51:14 +0000 View not found in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/View.php on line 168
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(30): Swiftlet\Abstracts\View->render()
+#1 {main}
+
+20b1c Thu, 09 Jun 2016 05:51:35 +0000 View not found in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/View.php on line 168
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(30): Swiftlet\Abstracts\View->render()
+#1 {main}
+
+7ac67 Thu, 09 Jun 2016 05:56:01 +0000 View not found in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/View.php on line 168
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(30): Swiftlet\Abstracts\View->render()
+#1 {main}
+
+ae212 Thu, 09 Jun 2016 05:56:19 +0000 View not found in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/View.php on line 168
+#0 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(30): Swiftlet\Abstracts\View->render()
+#1 {main}
+
+b2759 Thu, 09 Jun 2016 05:59:06 +0000 preg_match(): Compilation failed: missing ) at offset 23 in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 55
+#0 [internal function]: Swiftlet\Abstracts\App->error(2, 'preg_match(): C...', '/home/nathaniel...', 55, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(55): preg_match('/(<img src="([^...', '<table> <tr><td...', NULL)
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(18): HelloWorld\Models\Feed->getLastImage()
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#4 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#5 {main}
+
+912eb Thu, 09 Jun 2016 05:59:19 +0000 preg_match(): Compilation failed: missing ) at offset 23 in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 55
+#0 [internal function]: Swiftlet\Abstracts\App->error(2, 'preg_match(): C...', '/home/nathaniel...', 55, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(55): preg_match('/(<img src="([^...', '<table> <tr><td...', NULL)
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(18): HelloWorld\Models\Feed->getLastImage()
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#4 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#5 {main}
+
+43ef3 Thu, 09 Jun 2016 06:00:17 +0000 preg_match(): Compilation failed: missing ) at offset 23 in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 55
+#0 [internal function]: Swiftlet\Abstracts\App->error(2, 'preg_match(): C...', '/home/nathaniel...', 55, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(55): preg_match('/(<img src="([^...', '<table> <tr><td...', NULL)
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(18): HelloWorld\Models\Feed->getLastImage()
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#4 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#5 {main}
+
+ae29c Thu, 09 Jun 2016 06:00:42 +0000 preg_match(): Compilation failed: missing ) at offset 16 in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 55
+#0 [internal function]: Swiftlet\Abstracts\App->error(2, 'preg_match(): C...', '/home/nathaniel...', 55, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(55): preg_match('/(<img src="(.*...', '<table> <tr><td...', NULL)
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(18): HelloWorld\Models\Feed->getLastImage()
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#4 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#5 {main}
+
+ef0ee Thu, 09 Jun 2016 06:01:11 +0000 preg_match(): Compilation failed: missing ) at offset 14 in /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php on line 55
+#0 [internal function]: Swiftlet\Abstracts\App->error(2, 'preg_match(): C...', '/home/nathaniel...', 55, Array)
+#1 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Models/Feed.php(55): preg_match('/(<img src=".*"...', '<table> <tr><td...', NULL)
+#2 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/HelloWorld/Controllers/Feed.php(18): HelloWorld\Models\Feed->getLastImage()
+#3 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/src/Swiftlet/Abstracts/App.php(136): HelloWorld\Controllers\Feed->index(Array)
+#4 /home/nathaniel/.dropbox-personal/Dropbox/Web/temp/Swiftlet/public/index.php(26): Swiftlet\Abstracts\App->dispatchController()
+#5 {main}
